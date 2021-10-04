@@ -8,10 +8,10 @@
 - 💬 Ask me about **Python & Machine learning , Data Science , Web Scraping**
 
 - 📫 How to reach me **manthanshettigar2001@gmail.com**
-
+<!-- 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
