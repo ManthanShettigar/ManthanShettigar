@@ -8,7 +8,7 @@
 - 💬 Ask me about **Python & Machine learning , Data Science , Web Scraping**
 
 - 📫 How to reach me **manthanshettigar2001@gmail.com**
-<!-- 
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Web Scraping : Hands-on Tutorial](https://manthanshettigar2001.medium.com/web-scraping-for-data-scientists-hands-on-tutorial-f1d71fc88673?source=rss-259a0caf79f3------2)
