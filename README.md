@@ -12,7 +12,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Web Scraping : Hands-on Tutorial](https://manthanshettigar2001.medium.com/web-scraping-for-data-scientists-hands-on-tutorial-f1d71fc88673?source=rss-259a0caf79f3------2)
-- [Machine Learning Beginner’s Guide(Resources)](https://manthanshettigar2001.medium.com/getting-started-with-ml-resources-beginners-guide-91b7e484db8b?source=rss-259a0caf79f3------2)
+- [Machine Learning Beginner’s Guide&lpar;Resources&rpar;](https://manthanshettigar2001.medium.com/getting-started-with-ml-resources-beginners-guide-91b7e484db8b?source=rss-259a0caf79f3------2)
 <!-- BLOG-POST-LIST:END --> 
 
 <h3 align="left">Connect with me:</h3>
