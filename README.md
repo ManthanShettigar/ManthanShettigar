@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Manthan Shettigar</h1>
-<h3 align="center">A Data Nerd & Data Scientist</h3>
+<h1 align="center"> Manthan Shettigar</h1>
+<h3 align="center">A Data Nerd 🤓 & Data Scientist 📊</h3>
 
-- 🌱 I’m currently learning **NLP,GAN**
+- 🌱 I’m currently learning **NLP,MLops**
 
 - 📝 I regularly write articles on [https://manthanshettigar2001.medium.com/](https://manthanshettigar2001.medium.com/)
 
