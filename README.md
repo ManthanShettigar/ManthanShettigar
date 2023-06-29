@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manthan Shettigar</h1>
-<h3 align="center">A Machine learning Enthusiast</h3>
+<h3 align="center">A Data Nerd & Data Scientist</h3>
 
 - 🌱 I’m currently learning **NLP,GAN**
 
