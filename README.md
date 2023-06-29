@@ -29,3 +29,4 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manthanshettigar&show_icons=true&theme=dark&locale=en" alt="manthanshettigar" /></p>
 
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/manthanx/notebook)
