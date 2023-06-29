@@ -29,11 +29,8 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manthanshettigar&show_icons=true&theme=dark&locale=en" alt="manthanshettigar" /></p>
 
+<h3 align="left">Kaggle Profile:</h3>
 
-![manthanx](https://road-to-kaggle-grandmaster.vercel.app/api/simple/manthanx)
-
-<br>
 
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/manthanx/notebook)
-
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/manthanx/discussion)
