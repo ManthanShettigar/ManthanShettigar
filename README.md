@@ -28,5 +28,6 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manthanshettigar&show_icons=true&theme=dark&locale=en&layout=compact" alt="manthanshettigar" /></p> -->
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manthanshettigar&show_icons=true&theme=dark&locale=en" alt="manthanshettigar" /></p>
-
+![manthanx](https://road-to-kaggle-grandmaster.vercel.app/api/simple/manthanx)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/manthanx/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/manthanx/discussion)
