@@ -33,5 +33,7 @@
 ![manthanx](https://road-to-kaggle-grandmaster.vercel.app/api/simple/manthanx)
 
 <br>
+
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/manthanx/notebook)
+
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/manthanx/discussion)
